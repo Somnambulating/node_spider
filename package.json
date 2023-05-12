@@ -1,0 +1,7 @@
+{
+  "name": "my-project",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^19.8.5"
+  }
+}
